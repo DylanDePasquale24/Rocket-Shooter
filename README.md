@@ -5,6 +5,8 @@ Rocket Shooter is a game where players must navigate through projectile asteroid
 
 After programming MineSweeper for a project in my Programming II class, I was inspired to create my own game, this time with real-time graphics! The project allowed me to dive deep into C++ and learn the core fundamentals of Software and Object Oriented design, especially with dynamic memory.
 
+**Tools:** C++ and SFML (A multimedia graphics library)
+
 Below are some screenshots of the game in action.
 
 
