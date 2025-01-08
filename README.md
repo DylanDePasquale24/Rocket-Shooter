@@ -2,10 +2,17 @@
 ## Description
 Rocket Shooter is a game where players navigate through asteroid fields, fighting enemies to stay alive and complete all 5 waves. Once wave 5 is reached, enemies become increasingly more powerful the longer you stay alive, so survive as long as you can!
 
-### Scoring and Controls
-The objective of the game is to beat your record score either by killing enemies or by travelling your furthest distance. One point is earned for every kilometer travelled and depending on the type of enemy you destroy, you can gain between 500-11,000 points (harder enemies give more points). 
+## Game Mechanics
 
-Your rocket is controlled by the keyboard arrows and shots can be fired using the space bar.
+### Enemies
+There are 3 types of enemies: Rogue Aliens, UFO's, and Battleships. Rogue Aliens are the weakest, but also the fastest and often the most tedious to kill. In wave 1 they only require 1 shot to destroy, but their health increases as you progress through the waves. Battleship's on the other hand are slower, but have significantly more health and fire power. UFO's are the even middle ground between the two. Each enemy has their own strengths and weaknesses, and all become stronger as the waves progress.
+
+### Asteroid Fields
+While fighting enemies, you will have to evade a series of asteroid fields that get progressively more difficult. Like enemies, they are divided into 3 levels: small, medium, and large asteroids. Asteroid fields are sparse in the beginning, but become very dense by the time you reach wave 5. One small mistake could cost you the game!
+
+### Objective and Controls
+The objective of the game is to beat your record score by travelling as far as you can and killing enemies along the way. Your points will increase rapidly every second to log distance, and depending on the type of enemy you destroy, you can gain between 500-11,000 points. The controls are pretty simple, just use the keyboard arrows and the space bar to shoot. 
+
 
 
 ## Running the Application
